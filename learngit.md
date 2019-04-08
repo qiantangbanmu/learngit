@@ -7,6 +7,7 @@
 git init
 ```
 
+
 # 查看状态
 ```
 git status
@@ -16,3 +17,5 @@ git status
 ```
 git add 
 ```
+
+## 测试git跟踪
